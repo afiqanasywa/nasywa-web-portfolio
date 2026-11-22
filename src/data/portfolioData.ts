@@ -139,7 +139,7 @@ const PROFILE_PHOTO = __NASYWA_PHOTO__ || 'images/nasywa-profile.jpg';
 const EMAIL = 'afiqafadya07@gmail.com';
 // Replace with your exact profile URL, e.g. https://www.linkedin.com/in/your-handle
 const LINKEDIN =
-  'www.linkedin.com/in/afiqa-fadhya-nasywa';
+  'https://www.linkedin.com/in/afiqa-fadhya-nasywa';
 
 export const portfolioData: PortfolioData = {
   profile: {
